@@ -1,0 +1,5 @@
+/hardhat-tutorial/artifacts
+/hardhat-tutorial/node_modules
+/hardhat-tutorial/cache
+/hardhat-tutorial/coverage
+/hardhat-tutorial/test
